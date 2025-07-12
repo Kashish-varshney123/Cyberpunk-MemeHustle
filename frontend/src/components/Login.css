@@ -1,0 +1,75 @@
+.login-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: rgba(20, 20, 20, 0.85);
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: 1000;
+}
+.login-form {
+  background: #18181f;
+  border-radius: 16px;
+  box-shadow: 0 0 32px #00fff7, 0 0 64px #ff00c8;
+  padding: 2.5rem 2rem;
+  min-width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+  border: 2.5px solid #00fff7;
+}
+.login-form h2 {
+  color: #00fff7;
+  font-family: 'Share Tech Mono', monospace;
+  letter-spacing: 2px;
+  margin-bottom: 0.5em;
+}
+.login-form input {
+  background: #22242a;
+  border: 1.5px solid #ff00c8;
+  border-radius: 8px;
+  color: #fff;
+  padding: 0.7em 1em;
+  font-size: 1em;
+  outline: none;
+  transition: border 0.2s;
+}
+.login-form input:focus {
+  border: 1.5px solid #00fff7;
+}
+.login-form button {
+  background: linear-gradient(90deg, #00fff7 0%, #ff00c8 100%);
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 0.6em 1.2em;
+  margin-top: 0.5em;
+  cursor: pointer;
+  box-shadow: 0 0 16px #00fff7, 0 0 32px #ff00c8;
+  transition: transform 0.1s, box-shadow 0.2s;
+}
+.login-form button:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 32px #ff00c8, 0 0 64px #00fff7;
+}
+.switch-btn {
+  background: transparent !important;
+  color: #00fff7 !important;
+  border: 1.5px solid #00fff7 !important;
+  margin-top: 0.1em;
+  box-shadow: none !important;
+  font-size: 0.98em;
+}
+.switch-btn:hover {
+  background: #00fff7 !important;
+  color: #18181f !important;
+}
+.error {
+  color: #ff00c8;
+  font-size: 0.98em;
+  margin-top: -0.5em;
+  margin-bottom: 0.2em;
+}

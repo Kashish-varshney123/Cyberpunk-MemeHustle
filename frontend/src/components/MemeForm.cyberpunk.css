@@ -1,0 +1,74 @@
+/* --- Cyberpunk Meme Form Styles --- */
+
+.neon-form.centered {
+  background: rgba(10,10,20,0.97);
+  border: 2.5px solid #39ff14;
+  border-radius: 18px;
+  box-shadow: 0 0 32px #39ff14, 0 0 64px #00fff7;
+  padding: 2.5rem 2rem 2rem 2rem;
+  margin: 2.5rem auto 2rem auto;
+  max-width: 420px;
+  min-width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+}
+.neon-form.centered h2 {
+  font-family: 'Orbitron', 'Share Tech Mono', monospace;
+  font-size: 2rem;
+  color: #39ff14;
+  text-shadow: 0 0 18px #39ff14, 0 0 32px #00fff7;
+  margin-bottom: 1.6rem;
+  letter-spacing: 0.08em;
+  font-weight: bold;
+  user-select: none;
+  animation: glitch-flicker 1.3s infinite alternate;
+}
+
+.neon-input {
+  background: rgba(20,20,28,0.85);
+  border: 2px solid #00fff7;
+  border-radius: 10px;
+  box-shadow: 0 0 12px #00fff7;
+  color: #39ff14;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 1.08em;
+  margin-bottom: 1.1em;
+  padding: 0.85em 1.2em;
+  outline: none;
+  transition: border-color 0.18s, box-shadow 0.18s, background 0.13s;
+}
+.neon-input:focus {
+  border-color: #39ff14;
+  box-shadow: 0 0 18px #39ff14, 0 0 32px #39ff14;
+  background: rgba(20,20,28,0.95);
+  color: #fff;
+  animation: neon-flicker 1.2s infinite alternate;
+}
+.neon-input::placeholder {
+  color: #00fff7;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+.cyber-btn.glitch {
+  font-size: 1.1em;
+  padding: 0.8em 2.5em;
+  margin-top: 1.1em;
+  border-radius: 14px;
+  box-shadow: 0 0 32px #00fff7, 0 0 64px #ff00c8;
+  letter-spacing: 0.09em;
+  animation: glitch 1.2s infinite alternate;
+}
+.cyber-btn.glitch:active {
+  transform: scale(0.98) rotate(1deg);
+  filter: brightness(1.18);
+}
+
+@media (max-width: 600px) {
+  .neon-form.centered {
+    padding: 1.2rem 0.5rem 1.2rem 0.5rem;
+    max-width: 98vw;
+  }
+}

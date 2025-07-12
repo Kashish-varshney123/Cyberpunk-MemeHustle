@@ -1,0 +1,527 @@
+{
+  "memes": [
+    {
+      "id": "mcxa5smzo9tvcyls9pq",
+      "title": "dog",
+      "image_url": "https://i.imgur.com/4M34hi2.png",
+      "tags": [
+        "crazy",
+        "funny"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxabt5x2e69fmb1kdq",
+      "title": "cat",
+      "image_url": "https://i.imgur.com/4M34hi2.png",
+      "tags": [
+        "crazy"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxadz78fhzbzdlo3uc",
+      "title": "dog",
+      "image_url": "https://i.imgur.com/4M34hi2.png",
+      "tags": [
+        "funny"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxaoe7qww8vkbvex5j",
+      "title": "pillow",
+      "image_url": "https://i.imgur.com/4M34hi2.png",
+      "tags": [
+        "teared"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxc8ygw5iuqsnnlb3i",
+      "title": "dog",
+      "image_url": "https://i.imgur.com/4M34hi2.png",
+      "tags": [
+        "funny"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxcg6nnjaqiddw253l",
+      "title": "dog",
+      "image_url": "https://www.pexels.com/search/dogs/",
+      "tags": [
+        "funny"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxcush4m8qtic9acu",
+      "title": "boyfriend",
+      "image_url": "https://i.imgur.com/1J6hY2J.jpg",
+      "tags": [
+        "distracted"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxcz69rv5szj6f9us",
+      "title": "dog",
+      "image_url": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=400&q=80",
+      "tags": [
+        "funny",
+        "tongue"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxd39v6psezhevuzi9",
+      "title": "dog",
+      "image_url": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=400&q=80",
+      "tags": [
+        "funny",
+        "tongue"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxhqh1mjfsrhp76dyp",
+      "title": "dog",
+      "image_url": "https://i.imgur.com/4M34hi2.png",
+      "tags": [
+        "funny"
+      ],
+      "upvotes": 0,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxhwg70m1p6p6kde8",
+      "title": "dog",
+      "image_url": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=400&q=80",
+      "tags": [
+        "crazy",
+        "tongue"
+      ],
+      "upvotes": 13,
+      "owner_id": 1
+    },
+    {
+      "id": "mcxhzluwkvhwzjs38td",
+      "title": "dog",
+      "image_url": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=400&q=80",
+      "tags": [
+        "crazy",
+        "funny"
+      ],
+      "upvotes": 6,
+      "owner_id": 1
+    }
+  ],
+  "bids": {
+    "mcxa5smzo9tvcyls9pq": [
+      {
+        "user_id": "photon_ninja",
+        "credits": 995
+      },
+      {
+        "user_id": "pixelpusher",
+        "credits": 691
+      },
+      {
+        "user_id": "vaporwave",
+        "credits": 917
+      },
+      {
+        "user_id": "glitchlord",
+        "credits": 924
+      },
+      {
+        "user_id": "databurst",
+        "credits": 50
+      },
+      {
+        "user_id": "vaporwave",
+        "credits": 766
+      },
+      {
+        "user_id": "cyberghost",
+        "credits": 394
+      },
+      {
+        "user_id": "neonbot",
+        "credits": 358
+      },
+      {
+        "user_id": "cyberpunkX",
+        "credits": 410
+      },
+      {
+        "user_id": "matrix_mage",
+        "credits": 780
+      }
+    ],
+    "mcxabt5x2e69fmb1kdq": [
+      {
+        "user_id": "photon_ninja",
+        "credits": 382
+      },
+      {
+        "user_id": "neonbot",
+        "credits": 299
+      },
+      {
+        "user_id": "h4x0r",
+        "credits": 492
+      },
+      {
+        "user_id": "404hacker",
+        "credits": 293
+      },
+      {
+        "user_id": "chromedream",
+        "credits": 566
+      },
+      {
+        "user_id": "photon_ninja",
+        "credits": 522
+      },
+      {
+        "user_id": "bytebabe",
+        "credits": 322
+      },
+      {
+        "user_id": "cyberghost",
+        "credits": 676
+      },
+      {
+        "user_id": "matrix_mage",
+        "credits": 20
+      },
+      {
+        "user_id": "neonbot",
+        "credits": 414
+      }
+    ],
+    "mcxadz78fhzbzdlo3uc": [
+      {
+        "user_id": "bytebabe",
+        "credits": 381
+      },
+      {
+        "user_id": "photon_ninja",
+        "credits": 165
+      },
+      {
+        "user_id": "pixelpusher",
+        "credits": 147
+      },
+      {
+        "user_id": "neonbot",
+        "credits": 364
+      },
+      {
+        "user_id": "photon_ninja",
+        "credits": 472
+      },
+      {
+        "user_id": "cyberghost",
+        "credits": 6
+      },
+      {
+        "user_id": "cyberghost",
+        "credits": 523
+      },
+      {
+        "user_id": "bytebabe",
+        "credits": 651
+      },
+      {
+        "user_id": "h4x0r",
+        "credits": 4
+      },
+      {
+        "user_id": "pixelpusher",
+        "credits": 24
+      }
+    ],
+    "mcxaoe7qww8vkbvex5j": [
+      {
+        "user_id": "cyberpunkX",
+        "credits": 885
+      },
+      {
+        "user_id": "photon_ninja",
+        "credits": 623
+      },
+      {
+        "user_id": "glitchlord",
+        "credits": 474
+      },
+      {
+        "user_id": "404hacker",
+        "credits": 343
+      },
+      {
+        "user_id": "synthwave",
+        "credits": 383
+      },
+      {
+        "user_id": "synthwave",
+        "credits": 394
+      },
+      {
+        "user_id": "glitchlord",
+        "credits": 434
+      },
+      {
+        "user_id": "matrix_mage",
+        "credits": 60
+      },
+      {
+        "user_id": "pixelpusher",
+        "credits": 136
+      },
+      {
+        "user_id": "vaporwave",
+        "credits": 334
+      }
+    ],
+    "mcxc8ygw5iuqsnnlb3i": [
+      {
+        "user_id": "synthwave",
+        "credits": 705
+      },
+      {
+        "user_id": "404hacker",
+        "credits": 825
+      },
+      {
+        "user_id": "matrix_mage",
+        "credits": 901
+      },
+      {
+        "user_id": "glitchlord",
+        "credits": 704
+      },
+      {
+        "user_id": "matrix_mage",
+        "credits": 514
+      },
+      {
+        "user_id": "zeroCool",
+        "credits": 621
+      },
+      {
+        "user_id": "synthwave",
+        "credits": 91
+      },
+      {
+        "user_id": "pixelpusher",
+        "credits": 907
+      },
+      {
+        "user_id": "neonbot",
+        "credits": 329
+      },
+      {
+        "user_id": "matrix_mage",
+        "credits": 904
+      }
+    ],
+    "mcxcg6nnjaqiddw253l": [
+      {
+        "user_id": "cyberghost",
+        "credits": 186
+      },
+      {
+        "user_id": "glitchlord",
+        "credits": 304
+      },
+      {
+        "user_id": "bytebabe",
+        "credits": 513
+      },
+      {
+        "user_id": "cyberghost",
+        "credits": 511
+      },
+      {
+        "user_id": "vaporwave",
+        "credits": 270
+      },
+      {
+        "user_id": "glitchlord",
+        "credits": 854
+      },
+      {
+        "user_id": "zeroCool",
+        "credits": 540
+      },
+      {
+        "user_id": "chromedream",
+        "credits": 790
+      },
+      {
+        "user_id": "databurst",
+        "credits": 413
+      },
+      {
+        "user_id": "photon_ninja",
+        "credits": 335
+      }
+    ],
+    "mcxcush4m8qtic9acu": [
+      {
+        "user_id": "neonbot",
+        "credits": 3
+      },
+      {
+        "user_id": "photon_ninja",
+        "credits": 754
+      },
+      {
+        "user_id": "synthwave",
+        "credits": 967
+      }
+    ],
+    "mcxcz69rv5szj6f9us": [
+      {
+        "user_id": "h4x0r",
+        "credits": 472
+      },
+      {
+        "user_id": "cyberpunkX",
+        "credits": 468
+      }
+    ],
+    "mcxd39v6psezhevuzi9": [
+      {
+        "user_id": "vaporwave",
+        "credits": 867
+      },
+      {
+        "user_id": "bytebabe",
+        "credits": 668
+      },
+      {
+        "user_id": "chromedream",
+        "credits": 936
+      },
+      {
+        "user_id": "cyberpunkX",
+        "credits": 803
+      }
+    ],
+    "mcxhqh1mjfsrhp76dyp": [
+      {
+        "user_id": "bytebabe",
+        "credits": 793
+      },
+      {
+        "user_id": "neonbot",
+        "credits": 509
+      },
+      {
+        "user_id": "vaporwave",
+        "credits": 876
+      },
+      {
+        "user_id": "vaporwave",
+        "credits": 977
+      }
+    ],
+    "mcxhwg70m1p6p6kde8": [
+      {
+        "user_id": "glitchlord",
+        "credits": 406
+      },
+      {
+        "user_id": "databurst",
+        "credits": 431
+      },
+      {
+        "user_id": "cyberghost",
+        "credits": 411
+      },
+      {
+        "user_id": "404hacker",
+        "credits": 49
+      },
+      {
+        "user_id": "404hacker",
+        "credits": 210
+      },
+      {
+        "user_id": "quantumQ",
+        "credits": 917
+      },
+      {
+        "user_id": "cyberpunkX",
+        "credits": 700
+      },
+      {
+        "user_id": "vaporwave",
+        "credits": 821
+      },
+      {
+        "user_id": "databurst",
+        "credits": 5
+      },
+      {
+        "user_id": "synthwave",
+        "credits": 553
+      }
+    ],
+    "mcxhzluwkvhwzjs38td": [
+      {
+        "user_id": "bytebabe",
+        "credits": 471
+      },
+      {
+        "user_id": "synthwave",
+        "credits": 20
+      },
+      {
+        "user_id": "bytebabe",
+        "credits": 679
+      },
+      {
+        "user_id": "photon_ninja",
+        "credits": 170
+      },
+      {
+        "user_id": "zeroCool",
+        "credits": 965
+      },
+      {
+        "user_id": "matrix_mage",
+        "credits": 765
+      },
+      {
+        "user_id": "h4x0r",
+        "credits": 556
+      },
+      {
+        "user_id": "quantumQ",
+        "credits": 654
+      },
+      {
+        "user_id": "neonbot",
+        "credits": 638
+      },
+      {
+        "user_id": "quantumQ",
+        "credits": 645
+      }
+    ]
+  }
+}

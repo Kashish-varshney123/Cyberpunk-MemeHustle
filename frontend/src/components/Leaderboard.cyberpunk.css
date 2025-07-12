@@ -1,0 +1,80 @@
+/* --- Cyberpunk Leaderboard Modal Styles --- */
+
+.leaderboard-modal-cyberpunk {
+  background: rgba(10,10,20,0.97);
+  border: 2.5px solid #00fff7;
+  border-radius: 20px;
+  box-shadow: 0 0 48px #00fff7, 0 0 96px #ff00c8;
+  padding: 2.5rem 2rem 2rem 2rem;
+  min-width: 350px;
+  max-width: 95vw;
+  position: relative;
+  z-index: 100;
+}
+.leaderboard-modal-cyberpunk h2 {
+  font-family: 'Orbitron', 'Share Tech Mono', monospace;
+  font-size: 2rem;
+  color: #00fff7;
+  text-shadow: 0 0 24px #00fff7, 0 0 48px #ff00c8;
+  margin-bottom: 1.6rem;
+  letter-spacing: 0.08em;
+  font-weight: bold;
+  user-select: none;
+  animation: glitch-flicker 1.3s infinite alternate;
+}
+.leaderboard-modal-cyberpunk .neon-border {
+  border: 2px solid #00fff7;
+  box-shadow: 0 0 12px #00fff7, 0 0 24px #ff00c8;
+}
+.leaderboard-modal-cyberpunk .neon-shadow {
+  box-shadow: 0 0 24px #00fff7, 0 0 12px #ff00c8;
+}
+.leaderboard-modal-cyberpunk .leaderboard-up {
+  animation: leaderboard-up 0.7s;
+  background: linear-gradient(90deg, #00fff7 0%, #39ff14 100%);
+  color: #000;
+}
+.leaderboard-modal-cyberpunk .leaderboard-down {
+  animation: leaderboard-down 0.7s;
+  background: linear-gradient(90deg, #ff00c8 0%, #18182a 100%);
+  color: #fff;
+}
+@keyframes leaderboard-up {
+  0% { filter: brightness(2) drop-shadow(0 0 24px #00fff7); }
+  100% { filter: none; }
+}
+@keyframes leaderboard-down {
+  0% { filter: brightness(2) drop-shadow(0 0 24px #ff00c8); }
+  100% { filter: none; }
+}
+.leaderboard-modal-cyberpunk .glitch {
+  animation: glitch 1.2s infinite alternate;
+}
+.leaderboard-modal-cyberpunk .text-neon-green {
+  color: #39ff14;
+  text-shadow: 0 0 6px #39ff14, 0 0 12px #39ff14;
+}
+.leaderboard-modal-cyberpunk .close-btn {
+  position: absolute;
+  top: 1.2rem;
+  right: 2rem;
+  color: #00fff7;
+  font-size: 2rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  filter: drop-shadow(0 0 8px #00fff7);
+  transition: color 0.13s, filter 0.13s;
+  z-index: 10;
+}
+.leaderboard-modal-cyberpunk .close-btn:hover {
+  color: #ff00c8;
+  filter: drop-shadow(0 0 16px #ff00c8);
+}
+@media (max-width: 600px) {
+  .leaderboard-modal-cyberpunk {
+    padding: 1.2rem 0.5rem 1.2rem 0.5rem;
+    min-width: unset;
+    max-width: 99vw;
+  }
+}

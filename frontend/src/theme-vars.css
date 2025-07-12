@@ -1,0 +1,24 @@
+:root.theme-cyberpunk {
+  --btn-bg: linear-gradient(90deg, #00fff7 0%, #ff00c8 100%);
+  --btn-color: #000;
+  --btn-border: #ff00c8;
+  --btn-shadow: #ff00c8;
+  --btn-shadow2: #00fff7;
+  --leaderboard-bg: linear-gradient(90deg, #ff00c8 0%, #00fff7 100%);
+  --leaderboard-color: #000;
+  --leaderboard-border: #00fff7;
+  --leaderboard-shadow: #00fff7;
+  --leaderboard-shadow2: #ff00c8;
+}
+:root.theme-light {
+  --btn-bg: #fff;
+  --btn-color: #222;
+  --btn-border: #bbb;
+  --btn-shadow: #eee;
+  --btn-shadow2: #ccc;
+  --leaderboard-bg: #fff;
+  --leaderboard-color: #222;
+  --leaderboard-border: #bbb;
+  --leaderboard-shadow: #eee;
+  --leaderboard-shadow2: #ccc;
+}
