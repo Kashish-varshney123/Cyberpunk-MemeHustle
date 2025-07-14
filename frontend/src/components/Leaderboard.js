@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Leaderboard.cyberpunk.css';
 
 const Leaderboard = ({ open, onClose }) => {
@@ -49,11 +50,12 @@ const Leaderboard = ({ open, onClose }) => {
     });
   }, [topMemes]);
 
+  const navigate = useNavigate();
   if (!open) return null;
   return (
     <div className="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50">
       <div className="leaderboard-modal-cyberpunk">
-        <button className="close-btn" onClick={onClose}>×</button>
+        <button className="close-btn" onClick={() => navigate('/home')}>×</button>
         <h2 className="text-2xl text-neon-green glitch mb-4 text-center">🔥 Meme Leaderboard 🔥</h2>
         <ol className="space-y-2">
           {topMemes.map((meme, i) => (
